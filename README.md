@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tariya321
-- 👀 I’m interested in <integral circuit> and <FPGA>
+- 👀 I’m interested in **integral circuit** and **FPGA**
 - 🌱 I’m currently learning LaTeX and Verilog
 - 💞️ I’m looking to collaborate on setting LaTeX templates
 - 📫 How to reach me email: tariya@yeah.net, everything about learning is Okay!
