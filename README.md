@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Tariya321
-- 👀 I’m interested in **integrated circuits** and **FPGA** recently
-- 🌱 I’m currently learning EDA tools and FPGA-related workflow
-- 💞️ I’m looking to collaborate on setting LaTeX templates
+- 👀 I’m interested in **configurable circuit design** and **compute-in-memory** recently
+- 🌱 I’m currently simulating a physics-inspired model
 - 📫 Reach me by email: tariya@yeah.net, everything about learning is Okay!
 
 <!---
