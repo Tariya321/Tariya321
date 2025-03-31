@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tariya321
-- 👀 I’m interested in **configurable circuit design** and **compute-in-memory** recently
-- 🌱 I’m currently simulating a physics-inspired model
+- 👀 I’m interested in **configurable** and **compute-in-memory** circuit design recently
+- 🌱 Skills of physical design is often discussed, please show your great ideas.
 - 📫 Reach me by email: tariya@yeah.net, everything about learning is Okay!
 
 <!---
